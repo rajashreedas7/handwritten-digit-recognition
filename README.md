@@ -23,3 +23,15 @@ Packages and libraries used:
 * matplotlib
 * os
 * PIL
+
+#### Cite This:
+```
+    @ONLINE {rdas2021digit,
+    author = "Rajashree Das, Subhrangshu Adhikary",
+    title  = "Supervised Learning for Limited Feature Hand Written Digit Recognition",
+    month  = "may",
+    year   = "2021",
+    url    = "https://github.com/rajashreedas7/handwritten-digit-recognition",
+    doi    = "10.5281/zenodo.4743737"}
+    
+ ```
