@@ -1,5 +1,4 @@
-# handwritten-digit-recognition
-Supervised Learning for Limited Feature Hand Written Digit Recognition
+# Supervised Learning for Limited Feature Hand Written Digit Recognition
 
 The following steps were performed while making this project:
 
