@@ -17,11 +17,11 @@ The following steps were performed while making this project:
 ##### Therefore, we could see that even with only 15 dataset per class, our model could perform quite well.
 
 Packages and libraries used:
-* sklearn
-* numpy
-* cv2
-* matplotlib
-* os
+* Sklearn
+* Numpy
+* OpenCV
+* Matplotlib
+* OS
 * PIL
 
 #### Cite This:
